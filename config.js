@@ -14,8 +14,8 @@ import dotenv from 'dotenv'
 //BETA: If you want to avoid typing the number that will be bot into the console, I added from here then:
 //Only applies to option 2 (be a bot with an 8-digit text code)
 
-global.botNumber = [''] //Example: +923092668108
-global.confirmCode = "" 
+global.botNumber = ['213798621857'] //Example: +923092668108
+global.confirmCode = "Prince~scl/fi/i47riwvnwpvfb632tezik/nKmNG5pPC6.json?rlkey=sorat1u6s7zil72vja57r8qc6&dl=0" 
 
 
 //💌------------------------------------------💌
