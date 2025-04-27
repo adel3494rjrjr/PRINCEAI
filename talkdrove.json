@@ -7,22 +7,22 @@
     "owner-verification":"shoroking38@gmail.com",
   
       "env": {
-    "SESSION_ID": {
+    "SESSION_ID": {Prince~scl/fi/i47riwvnwpvfb632tezik/nKmNG5pPC6.json?rlkey=sorat1u6s7zil72vja57r8qc6&dl=0
       "description": "put your session ID here in the box below",
       "required": true,
       "value": ""
     },
-    "BOT_NAME": {
+    "BOT_NAME": {ameralhmsy
       "description": "put your BOT a name",
       "required": true,
       "value": "PRINCE-BOT"
     },
-    "OWNER_NUMBER": {
+    "OWNER_NUMBER": {213798621857
       "description": "put your Number and name for Owner",
       "required": true,
       "value": "6281220527432,Prince♥️The Developer"
     },
-    "owner_react_emojie": {
+    "owner_react_emojie": {🤍
       "description": "put one emojie for owner reacts",
       "required": false,
       "value": "🤍"
@@ -57,7 +57,7 @@
       "required": false,
       "value": "false"
     },
-    "autoreactions_emojies": {
+    "autoreactions_emojies": {💚🇸🇾🌝🤍🖤🎀😍🤗🫶👀🩷❤️🧡💛🩵💙💜❤‍🩹❣️🩶🏴🇹🇷
       "description": "put your favourite emojies for AutoReactions on chats or make it empty for all default emojies",
       "required": false,
       "value": "💛,🤍,💗,♥️,💞"
@@ -70,7 +70,7 @@
     "StatusEmojies": {
       "description": "Add your favorites emojies for status likes",
       "required": false,
-      "value": "♥️,🤗,❤️,💞,❣️,💙,💛,🤍,💚,😍,🥰,💝,💖,💗,💓,💞,💕,❣️,💘,💟,🖤,🤎,💜,💫,🌸"
+      "value": "♥️,🤗,❤️,💞,❣️,💙,💛,🤍,💚,😍,🥰,💝,💖,💗,💓,💞,💕,❣️,💘,💟,🖤,🤎,💜,💫,🌸,🇸🇾"
     },
     "STATUS_MSG": {
       "description": "Status reply msg",
